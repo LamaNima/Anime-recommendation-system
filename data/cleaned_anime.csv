@@ -8967,7 +8967,6 @@ anime_id,name,genre,type,episodes,rating,members,genre_list
 29926,Inaka Nezumi to Machi Nezumi,Kids,Movie,1,4.28,89,['kids']
 8786,Inakappe Taishou,"Comedy, Sports",TV,104,6.8,184,"['comedy', ' sports']"
 26299,Inamuranohi,"Drama, Historical, Kids",OVA,1,8.0,47,"['drama', ' historical', ' kids']"
-34502,Inazma Delivery,"Action, Comedy, Sci-Fi",TV,10,,32,"['action', ' comedy', ' sci-fi']"
 28235,Indie Anibox: Selma Danbaekjil Coffee,"Comedy, Drama, Romance, Samurai, Sci-Fi",Movie,1,7.22,109,"['comedy', ' drama', ' romance', ' samurai', ' sci-fi']"
 32227,Inemuri Buu-chan,Kids,Movie,1,4.11,53,['kids']
 16259,Inferious Wakusei Senshi Gaiden Condition Green,"Action, Sci-Fi",OVA,6,6.08,116,"['action', ' sci-fi']"
@@ -9656,7 +9655,6 @@ anime_id,name,genre,type,episodes,rating,members,genre_list
 19817,Namakemono ga Miteta,"Music, Seinen, Slice of Life",OVA,2,6.42,65,"['music', ' seinen', ' slice of life']"
 32876,Nameko: Sekai no Tomodachi,Comedy,TV,Unknown,5.6,261,['comedy']
 33583,Nana Moon,"Fantasy, Kids",TV,52,6.0,36,"['fantasy', ' kids']"
-34309,Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari,"Comedy, Supernatural",TV,Unknown,,129,"['comedy', ' supernatural']"
 26335,Nanatsu no Hoshi,"Drama, Kids",OVA,1,7.33,102,"['drama', ' kids']"
 25083,Nanatsu no Umi no Tico Specials,"Adventure, Slice of Life",Special,2,6.78,137,"['adventure', ' slice of life']"
 19797,Nanbo no Monjai! 2: Yankee Gurentai,"Action, Comedy",OVA,1,5.0,56,"['action', ' comedy']"
@@ -10895,201 +10893,6 @@ anime_id,name,genre,type,episodes,rating,members,genre_list
 28543,Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen,"Drama, Kids",OVA,1,5.83,50,"['drama', ' kids']"
 18967,Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken,"Comedy, Historical, Sci-Fi",OVA,1,6.13,76,"['comedy', ' historical', ' sci-fi']"
 13455,Zumomo to Nupepe,Comedy,TV,32,7.0,120,['comedy']
-34096,Gintama (2017),"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,Unknown,,13383,"['action', ' comedy', ' historical', ' parody', ' samurai', ' sci-fi', ' shounen']"
-34134,One Punch Man 2,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,Unknown,,90706,"['action', ' comedy', ' parody', ' sci-fi', ' seinen', ' super power', ' supernatural']"
-25777,Shingeki no Kyojin Season 2,"Action, Drama, Fantasy, Shounen, Super Power",TV,Unknown,,170054,"['action', ' drama', ' fantasy', ' shounen', ' super power']"
-33486,Boku no Hero Academia 2nd Season,"Action, Comedy, School, Shounen, Super Power",TV,Unknown,,46892,"['action', ' comedy', ' school', ' shounen', ' super power']"
-32937,Kono Subarashii Sekai ni Shukufuku wo! 2,"Adventure, Comedy, Fantasy, Magic, Supernatural",TV,Unknown,,54069,"['adventure', ' comedy', ' fantasy', ' magic', ' supernatural']"
-33506,Ao no Exorcist: Kyoto Fujouou-hen,"Action, Demons, Fantasy, Shounen, Supernatural",TV,Unknown,,45127,"['action', ' demons', ' fantasy', ' shounen', ' supernatural']"
-33417,Super Lovers 2,"Comedy, Drama, Romance, Shounen Ai",TV,Unknown,,12022,"['comedy', ' drama', ' romance', ' shounen ai']"
-30727,Saenai Heroine no Sodatekata ♭,"Comedy, Ecchi, Harem, Romance, School",TV,Unknown,,22890,"['comedy', ' ecchi', ' harem', ' romance', ' school']"
-31765,Sword Art Online Movie: Ordinal Scale,"Action, Adventure, Fantasy, Game, Romance",Movie,1,,50944,"['action', ' adventure', ' fantasy', ' game', ' romance']"
-32887,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,"Action, Adventure, Comedy, Fantasy",TV,Unknown,,12406,"['action', ' adventure', ' comedy', ' fantasy']"
-33487,Masamune-kun no Revenge,"Comedy, Harem, Romance, School, Shounen",TV,Unknown,,20776,"['comedy', ' harem', ' romance', ' school', ' shounen']"
-30455,Kantai Collection: KanColle Zoku-hen,"Action, Military, School, Sci-Fi, Slice of Life",TV,Unknown,,15465,"['action', ' military', ' school', ' sci-fi', ' slice of life']"
-33047,Fate/Extra Last Encore,"Action, Fantasy, Magic",TV,Unknown,,12653,"['action', ' fantasy', ' magic']"
-31783,Yowamushi Pedal: New Generation,"Comedy, Drama, Shounen, Sports",TV,Unknown,,9037,"['comedy', ' drama', ' shounen', ' sports']"
-34451,Kekkai Sensen &amp; Beyond,"Action, Fantasy, Super Power, Supernatural, Vampire",TV,Unknown,,14124,"['action', ' fantasy', ' super power', ' supernatural', ' vampire']"
-33852,Mekakucity Reload,"Comedy, Romance, Sci-Fi, Super Power, Supernatural",TV,Unknown,,14017,"['comedy', ' romance', ' sci-fi', ' super power', ' supernatural']"
-25537,Fate/stay night Movie: Heaven&#039;s Feel,"Action, Fantasy, Magic, Supernatural",Movie,1,,53365,"['action', ' fantasy', ' magic', ' supernatural']"
-33743,Fuuka,"Drama, Ecchi, Music, Romance, School, Shounen",TV,Unknown,,9854,"['drama', ' ecchi', ' music', ' romance', ' school', ' shounen']"
-33674,No Game No Life Movie,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",Movie,1,,32041,"['adventure', ' comedy', ' ecchi', ' fantasy', ' game', ' supernatural']"
-33489,Little Witch Academia (TV),"Adventure, Comedy, Fantasy, Magic, School",TV,Unknown,,23398,"['adventure', ' comedy', ' fantasy', ' magic', ' school']"
-32949,Kuzu no Honkai,"Drama, Romance, School, Seinen",TV,Unknown,,20941,"['drama', ' romance', ' school', ' seinen']"
-30485,ChäoS;Child,"Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,Unknown,,19590,"['harem', ' mystery', ' psychological', ' sci-fi', ' supernatural']"
-32901,Eromanga-sensei,"Comedy, Drama, Romance",TV,Unknown,,8449,"['comedy', ' drama', ' romance']"
-34055,Berserk (2017),"Action, Adventure, Demons, Drama, Fantasy, Horror, Magic, Military, Romance, Supernatural",TV,Unknown,,13463,"['action', ' adventure', ' demons', ' drama', ' fantasy', ' horror', ' magic', ' military', ' romance', ' supernatural']"
-32981,Hand Shakers,unknown,TV,Unknown,,11661,['unknown']
-34176,Zero kara Hajimeru Mahou no Sho,"Action, Fantasy",TV,Unknown,,7716,"['action', ' fantasy']"
-33010,FLCL (TV),"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",TV,Unknown,,13008,"['action', ' comedy', ' dementia', ' mecha', ' parody', ' sci-fi']"
-31537,Shingeki no Bahamut: Manaria Friends,"Action, Adventure, Demons, Fantasy, Magic, Supernatural",TV,Unknown,,9939,"['action', ' adventure', ' demons', ' fantasy', ' magic', ' supernatural']"
-31931,Full Metal Panic! IV,"Action, Mecha, Military",TV,Unknown,,5098,"['action', ' mecha', ' military']"
-31629,Granblue Fantasy The Animation,Fantasy,TV,Unknown,,9867,['fantasy']
-33018,Touken Ranbu,"Action, Fantasy",TV,Unknown,,12012,"['action', ' fantasy']"
-29643,6HP (Six Hearts Princess),Magic,TV,Unknown,,1687,['magic']
-33337,ACCA: 13-ku Kansatsu-ka,"Drama, Police",TV,Unknown,,7403,"['drama', ' police']"
-33736,After School,School,ONA,Unknown,,147,['school']
-34051,Akiba&#039;s Trip The Animation,"Action, Adventure, Ecchi, Supernatural",TV,Unknown,,5889,"['action', ' adventure', ' ecchi', ' supernatural']"
-33839,Alice in Deadly School,"Comedy, School, Shounen",TV,Unknown,,1648,"['comedy', ' school', ' shounen']"
-34350,Alice to Zouroku,"Adventure, Mystery, Seinen",TV,Unknown,,515,"['adventure', ' mystery', ' seinen']"
-33818,Amanchu! Special,"Comedy, School, Slice of Life",Special,1,,3303,"['comedy', ' school', ' slice of life']"
-34465,Ao no Exorcist OVA,"Action, Demons, Fantasy, Shounen, Supernatural",OVA,1,,7013,"['action', ' demons', ' fantasy', ' shounen', ' supernatural']"
-33820,Ao Oni The Animation (Movie),Horror,Movie,Unknown,,1416,['horror']
-20471,Aoki Uru,"Military, Sci-Fi",Movie,1,,1860,"['military', ' sci-fi']"
-33564,Armed Blue: Gunvolt,"Action, Sci-Fi, Super Power",OVA,Unknown,,2549,"['action', ' sci-fi', ' super power']"
-33371,Atom: The Beginning,"Action, Mecha, Sci-Fi, Seinen",TV,Unknown,,931,"['action', ' mecha', ' sci-fi', ' seinen']"
-32878,ēlDLIVE,"Action, Sci-Fi, Space",TV,Unknown,,6943,"['action', ' sci-fi', ' space']"
-33573,BanG Dream!,Music,TV,Unknown,,1953,['music']
-31853,Biohazard: Vendetta,"Action, Horror, Sci-Fi",Movie,1,,2290,"['action', ' horror', ' sci-fi']"
-32086,Blame! Movie,"Action, Drama, Mecha, Psychological, Sci-Fi, Seinen",Movie,Unknown,,3251,"['action', ' drama', ' mecha', ' psychological', ' sci-fi', ' seinen']"
-33071,Bungou Stray Dogs OVA,"Mystery, Seinen, Supernatural",OVA,1,,8350,"['mystery', ' seinen', ' supernatural']"
-33354,Cardcaptor Sakura: Clear Card-hen,"Adventure, Comedy, Fantasy, Magic, Romance, Shoujo",TV,Unknown,,6737,"['adventure', ' comedy', ' fantasy', ' magic', ' romance', ' shoujo']"
-9488,Cencoroll 2,"Action, Sci-Fi",Movie,1,,15181,"['action', ' sci-fi']"
-34525,Centaur no Nayami,"Comedy, Fantasy, Slice of Life, Supernatural",TV,Unknown,,108,"['comedy', ' fantasy', ' slice of life', ' supernatural']"
-28833,Chain Chronicle: Haecceitas no Hikari,"Action, Adventure, Fantasy, Magic, Shounen",TV,12,,5678,"['action', ' adventure', ' fantasy', ' magic', ' shounen']"
-33729,Chain Chronicle: Haecceitas no Hikari Part 2,"Action, Adventure, Fantasy, Magic, Shounen",Movie,1,,2069,"['action', ' adventure', ' fantasy', ' magic', ' shounen']"
-33730,Chain Chronicle: Haecceitas no Hikari Part 3,"Action, Adventure, Fantasy, Magic, Shounen",Movie,1,,1861,"['action', ' adventure', ' fantasy', ' magic', ' shounen']"
-33388,Charanpo Shima no Monogatari,unknown,Movie,1,,142,['unknown']
-34088,Chiruran: Nibun no Ichi,"Action, Historical",TV,Unknown,,1036,"['action', ' historical']"
-32830,Chou Shounen Tanteidan Neo,Mystery,TV,Unknown,,442,['mystery']
-28377,Choujikuu Robo Meguru,"Comedy, Mecha",OVA,1,,713,"['comedy', ' mecha']"
-34257,Cinderella Girls Gekijou,"Comedy, Slice of Life",TV,Unknown,,2479,"['comedy', ' slice of life']"
-32407,Clockwork Planet,"Fantasy, Sci-Fi",TV,Unknown,,3999,"['fantasy', ' sci-fi']"
-32152,Closers: Side Blacklambs,"Fantasy, Game",ONA,12,,2306,"['fantasy', ' game']"
-34244,Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri,"Comedy, Kids, Shounen",Movie,1,,151,"['comedy', ' kids', ' shounen']"
-34346,Dam Keeper no Nakama-tachi,Fantasy,ONA,10,,70,['fantasy']
-34008,Days OVA,"School, Shounen, Sports",OVA,2,,3156,"['school', ' shounen', ' sports']"
-34497,Death March kara Hajimaru Isekai Kyousoukyoku,Fantasy,TV,Unknown,,240,['fantasy']
-33988,Demi-chan wa Kataritai,"Comedy, Fantasy, School, Seinen",TV,Unknown,,6252,"['comedy', ' fantasy', ' school', ' seinen']"
-34430,Detective Conan Movie 21: Deep Red Love Letter,"Action, Drama, Historical, Mystery, Police, Romance",Movie,1,,1997,"['action', ' drama', ' historical', ' mystery', ' police', ' romance']"
-32271,Dies Irae,"Action, Magic, Super Power",TV,Unknown,,5363,"['action', ' magic', ' super power']"
-34299,Digimon Adventure tri. 4: Soushitsu,"Action, Adventure, Comedy, Drama",Movie,1,,6529,"['action', ' adventure', ' comedy', ' drama']"
-33672,Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken,"Adventure, Comedy, Fantasy, Kids, Shounen",Movie,1,,172,"['adventure', ' comedy', ' fantasy', ' kids', ' shounen']"
-31678,Dragon Nest: Throne of Elves,"Action, Adventure, Fantasy, Magic",Movie,1,,1466,"['action', ' adventure', ' fantasy', ' magic']"
-32212,Ensemble Stars!,"Music, Shoujo",TV,Unknown,,3317,"['music', ' shoujo']"
-34208,Escha Chron,Sci-Fi,TV,Unknown,,797,['sci-fi']
-3786,Evangelion: 3.0+1.0,"Action, Mecha, Sci-Fi",Movie,1,,66600,"['action', ' mecha', ' sci-fi']"
-30778,Fairy Tail Movie 2,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",Movie,1,,16446,"['action', ' adventure', ' comedy', ' fantasy', ' magic', ' shounen']"
-34321,Fate/Grand Order: First Order,"Action, Fantasy, Magic, Supernatural",Special,1,,5005,"['action', ' fantasy', ' magic', ' supernatural']"
-34100,Fate/kaleid liner Prisma☆Illya Movie,"Action, Comedy, Fantasy, Magic",Movie,1,,7373,"['action', ' comedy', ' fantasy', ' magic']"
-33049,Fate/stay night Movie: Heaven&#039;s Feel 2,"Action, Fantasy, Magic, Supernatural",Movie,1,,10067,"['action', ' fantasy', ' magic', ' supernatural']"
-33050,Fate/stay night Movie: Heaven&#039;s Feel 3,"Action, Fantasy, Magic, Supernatural",Movie,1,,4282,"['action', ' fantasy', ' magic', ' supernatural']"
-34338,Finis,unknown,TV,Unknown,,208,['unknown']
-34427,Frame Arms Girl,Mecha,TV,Unknown,,258,['mecha']
-33203,Fukumenkei Noise,"Music, Romance, Shoujo",TV,Unknown,,2127,"['music', ' romance', ' shoujo']"
-33731,Gabriel DropOut,"Comedy, School, Shounen, Supernatural",TV,Unknown,,4139,"['comedy', ' school', ' shounen', ' supernatural']"
-33457,Gakuen Handsome Special,"Comedy, Parody, School, Shounen Ai",Special,1,,751,"['comedy', ' parody', ' school', ' shounen ai']"
-34488,Gan Gan Ganko-chan,"Comedy, Kids, Sci-Fi",TV,Unknown,,19,"['comedy', ' kids', ' sci-fi']"
-33389,Genba no Joukitsune,unknown,Movie,1,,133,['unknown']
-32936,Gin no Guardian,"Adventure, Fantasy",TV,Unknown,,2462,"['adventure', ' fantasy']"
-33783,Godzilla,"Action, Adventure, Fantasy, Sci-Fi",Movie,Unknown,,1022,"['action', ' adventure', ' fantasy', ' sci-fi']"
-34527,Gou-chan. Moko to Chinjuu no Mori no Nakama-tachi,"Adventure, Kids",Movie,1,,5,"['adventure', ' kids']"
-30532,Gundam Build Fighters OVA,"Action, Mecha, Sci-Fi",OVA,1,,1370,"['action', ' mecha', ' sci-fi']"
-23279,Gyakusatsu Kikan,"Psychological, Sci-Fi",Movie,1,,12529,"['psychological', ' sci-fi']"
-33378,Haikara-san ga Tooru Movie,"Comedy, Historical, Romance, Shoujo",Movie,1,,890,"['comedy', ' historical', ' romance', ' shoujo']"
-34403,Hajimete no Gal,"Comedy, Ecchi, Romance, School, Shounen",TV,Unknown,,1408,"['comedy', ' ecchi', ' romance', ' school', ' shounen']"
-34016,Hatsukoi Monster OVA,"Comedy, Romance, School, Shoujo",OVA,1,,2673,"['comedy', ' romance', ' school', ' shoujo']"
-34125,High School Fleet OVA,"Action, Military, School",OVA,1,,3857,"['action', ' military', ' school']"
-21877,High Score Girl,"Comedy, Romance, School, Seinen",TV,Unknown,,2670,"['comedy', ' romance', ' school', ' seinen']"
-33948,Hinako Note,"Comedy, Slice of Life",TV,Unknown,,909,"['comedy', ' slice of life']"
-33204,Hirune Hime: Shiranai Watashi no Monogatari,"Drama, Mecha",Movie,1,,4186,"['drama', ' mecha']"
-33797,ID-0,Mecha,OVA,Unknown,,292,['mecha']
-34028,Idol Jihen,Music,TV,Unknown,,872,['music']
-33733,Inazuma Eleven: Ares no Tenbin,Sports,TV,Unknown,,1984,['sports']
-33027,Infini-T Force,"Action, Seinen, Super Power",TV,Unknown,,503,"['action', ' seinen', ' super power']"
-33012,Island,"Drama, Sci-Fi",TV,Unknown,,1659,"['drama', ' sci-fi']"
-33840,Kabukibu!,School,TV,Unknown,,995,['school']
-33532,Kaitou Tenshi Twin Angel (TV),Magic,TV,Unknown,,698,['magic']
-34198,Kamisama Minarai: Himitsu no Cocotama Movie,"Fantasy, Kids, Magic",Movie,1,,64,"['fantasy', ' kids', ' magic']"
-33089,Kemono Friends,"Adventure, Comedy",TV,Unknown,,572,"['adventure', ' comedy']"
-32133,Kemushi no Boro,Kids,Movie,1,,286,['kids']
-34501,Kenka Banchou Otome: Girl Beats Boys,unknown,TV,Unknown,,319,['unknown']
-34032,King of Prism: Pride the Hero,"Music, Shoujo, Sports",Movie,1,,620,"['music', ' shoujo', ' sports']"
-33191,Kishibe Rohan wa Ugokanai,"Action, Adventure, Mystery, Supernatural",OVA,Unknown,,2607,"['action', ' adventure', ' mystery', ' supernatural']"
-31758,Kizumonogatari III: Reiketsu-hen,"Action, Mystery, Supernatural, Vampire",Movie,1,,27504,"['action', ' mystery', ' supernatural', ' vampire']"
-34104,Knight&#039;s &amp; Magic,"Action, Fantasy, Mecha, School",TV,Unknown,,887,"['action', ' fantasy', ' mecha', ' school']"
-33206,Kobayashi-san Chi no Maid Dragon,"Comedy, Fantasy, Slice of Life",TV,Unknown,,5765,"['comedy', ' fantasy', ' slice of life']"
-33519,Koutetsujou no Kabaneri Soushuuhen 1: Tsudou Hikari,"Action, Drama, Fantasy, Horror",Movie,1,,8961,"['action', ' drama', ' fantasy', ' horror']"
-33520,Koutetsujou no Kabaneri Soushuuhen 2: Moeru Inochi,"Action, Drama, Fantasy, Horror",Movie,1,,8986,"['action', ' drama', ' fantasy', ' horror']"
-31658,Kuroko no Basket: Last Game,"School, Shounen, Sports",Movie,1,,15817,"['school', ' shounen', ' sports']"
-31812,Kuroshitsuji Movie: Book of the Atlantic,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",Movie,1,,20335,"['action', ' comedy', ' demons', ' fantasy', ' historical', ' shounen', ' supernatural']"
-34106,Kyoukai no Rinne (TV) 3rd Season,"Comedy, Romance, School, Shounen, Supernatural",TV,Unknown,,3628,"['comedy', ' romance', ' school', ' shounen', ' supernatural']"
-34151,Landreaall,"Action, Adventure, Fantasy, Martial Arts, Romance",OVA,Unknown,,414,"['action', ' adventure', ' fantasy', ' martial arts', ' romance']"
-33735,Locker Room,Sports,ONA,Unknown,,162,['sports']
-34021,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,"Action, Adventure, Comedy, Drama",Movie,1,,785,"['action', ' adventure', ' comedy', ' drama']"
-17947,Mahou Shoujo Lyrical Nanoha Reflection,"Action, Comedy, Drama, Magic, Super Power",Movie,1,,4772,"['action', ' comedy', ' drama', ' magic', ' super power']"
-32900,Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo,"Action, Magic, Romance, School, Sci-Fi, Supernatural",Movie,1,,13884,"['action', ' magic', ' romance', ' school', ' sci-fi', ' supernatural']"
-33788,Marginal#4: Kiss kara Tsukuru Big Bang,"Music, Shoujo",TV,Unknown,,1766,"['music', ' shoujo']"
-33737,Megaton-kyuu Musashi,"Mecha, School",TV,Unknown,,173,"['mecha', ' school']"
-31422,Minami Kamakura Koukou Joshi Jitensha-bu,"School, Shounen, Sports",TV,Unknown,,2216,"['school', ' shounen', ' sports']"
-31445,Minna Atsumare! Falcom Gakuen 3rd Season,"Comedy, Parody, School, Seinen",TV,Unknown,,245,"['comedy', ' parody', ' school', ' seinen']"
-20715,Mint,"Drama, Fantasy",Movie,1,,1186,"['drama', ' fantasy']"
-34391,Mobile Suit Gundam Thunderbolt 2nd Season,"Action, Drama, Mecha, Military, Sci-Fi, Space",ONA,Unknown,,2040,"['action', ' drama', ' mecha', ' military', ' sci-fi', ' space']"
-34223,Mori no Yousei: Kinoko no Musume,"Fantasy, Music",TV,Unknown,,149,"['fantasy', ' music']"
-34383,Netsuzou TRap,"Drama, Shoujo Ai",TV,Unknown,,1783,"['drama', ' shoujo ai']"
-34277,"New Game!: Watashi, Shain Ryokou tte Hajimete nano de...","Comedy, Slice of Life",OVA,1,,10823,"['comedy', ' slice of life']"
-33850,Nil Admirari no Tenbin: Teito Genwaku Kitan,unknown,TV,Unknown,,233,['unknown']
-34264,Ninja Bear,"Comedy, School",TV,Unknown,,55,"['comedy', ' school']"
-32447,Nora to Oujo to Noraneko Heart,"Comedy, Ecchi",TV,Unknown,,2181,"['comedy', ' ecchi']"
-34148,Nyanko Days,"Comedy, Slice of Life",TV,Unknown,,1335,"['comedy', ' slice of life']"
-34392,One Room,unknown,TV,Unknown,,1616,['unknown']
-33983,Onihei,"Historical, Seinen",TV,13,,1716,"['historical', ' seinen']"
-33949,Oshiete! Galko-chan (OVA),"Comedy, School, Slice of Life",OVA,1,,5179,"['comedy', ' school', ' slice of life']"
-34161,Overlord Movie,"Action, Adventure, Fantasy, Game, Magic, Supernatural",Movie,1,,16008,"['action', ' adventure', ' fantasy', ' game', ' magic', ' supernatural']"
-33447,Piace: Watashi no Italian,"Comedy, Slice of Life",TV,Unknown,,1262,"['comedy', ' slice of life']"
-30695,Pop in Q,"Fantasy, Music",Movie,1,,5207,"['fantasy', ' music']"
-33391,Red Ash The Animation: Magicicada,"Action, Fantasy",Movie,1,,370,"['action', ' fantasy']"
-33019,Reikenzan: Hoshikuzu-tachi no Utage 2nd Season,"Comedy, Fantasy, Magic",TV,Unknown,,4037,"['comedy', ' fantasy', ' magic']"
-32262,Renai Boukun,"Comedy, Romance, School, Supernatural",TV,Unknown,,4558,"['comedy', ' romance', ' school', ' supernatural']"
-32951,Rokudenashi Majutsu Koushi to Akashic Records,"Action, Fantasy, Magic, School",TV,Unknown,,4174,"['action', ' fantasy', ' magic', ' school']"
-34393,Room Mate: One Room Side M,unknown,TV,Unknown,,219,['unknown']
-33726,Saiyuuki Reload Blast,"Action, Adventure, Comedy, Drama, Josei, Supernatural",TV,Unknown,,1286,"['action', ' adventure', ' comedy', ' drama', ' josei', ' supernatural']"
-34494,Sakura Quest,Comedy,TV,Unknown,,1295,['comedy']
-34102,Sakurada Reset,"Mystery, School, Super Power, Supernatural",TV,Unknown,,2076,"['mystery', ' school', ' super power', ' supernatural']"
-33889,Saredo Tsumibito wa Ryuu to Odoru,"Action, Drama, Fantasy, Sci-Fi",TV,Unknown,,416,"['action', ' drama', ' fantasy', ' sci-fi']"
-34289,Schoolgirl Strikers: Animation Channel,"Action, School",TV,Unknown,,1465,"['action', ' school']"
-33836,Seiren,School,TV,12,,6809,['school']
-32836,Senki Zesshou Symphogear 4th Season,"Action, Music, Sci-Fi",TV,Unknown,,1880,"['action', ' music', ' sci-fi']"
-32843,Senki Zesshou Symphogear 5th Season,"Action, Music, Sci-Fi",TV,Unknown,,1556,"['action', ' music', ' sci-fi']"
-34456,Sentai Hero Sukiyaki Force,Comedy,TV,Unknown,,43,['comedy']
-34315,Shimajirou to Niji no Oasis,Kids,Movie,1,,23,['kids']
-30736,Shingeki no Bahamut: Virgin Soul,"Action, Adventure, Demons, Fantasy, Magic, Supernatural",TV,24,,20953,"['action', ' adventure', ' demons', ' fantasy', ' magic', ' supernatural']"
-30223,Shishou Series,"Horror, School, Seinen, Supernatural",TV,Unknown,,3165,"['horror', ' school', ' seinen', ' supernatural']"
-33095,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,"Drama, Josei",TV,Unknown,,8585,"['drama', ' josei']"
-33502,Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?,"Drama, Fantasy, Romance, Sci-Fi",TV,Unknown,,251,"['drama', ' fantasy', ' romance', ' sci-fi']"
-33834,Sin: Nanatsu no Taizai,"Ecchi, Fantasy",TV,Unknown,,4496,"['ecchi', ' fantasy']"
-33362,Starmyu 2nd Season,"Music, School, Slice of Life",TV,Unknown,,2504,"['music', ' school', ' slice of life']"
-33036,Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai,"Comedy, Drama, Romance, School",Movie,1,,10668,"['comedy', ' drama', ' romance', ' school']"
-33013,Super Lovers OVA,"Comedy, Drama, Romance, Shounen Ai",OVA,1,,5210,"['comedy', ' drama', ' romance', ' shounen ai']"
-27783,Sword Gai (TV),Seinen,TV,Unknown,,6474,['seinen']
-34086,Tales of Zestiria the X (2017),"Action, Adventure, Fantasy",TV,12,,10848,"['action', ' adventure', ' fantasy']"
-34310,Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!,unknown,Movie,1,,51,['unknown']
-33308,Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono,"Comedy, Mystery, Super Power",Special,1,,610,"['comedy', ' mystery', ' super power']"
-34177,Tenshi no 3P!,"Music, School, Slice of Life",TV,Unknown,,359,"['music', ' school', ' slice of life']"
-34449,THE REFLECTION,"Action, Super Power",TV,Unknown,,242,"['action', ' super power']"
-32596,The Snack World (TV),"Adventure, Comedy, Fantasy, Kids",TV,Unknown,,107,"['adventure', ' comedy', ' fantasy', ' kids']"
-34416,The Snack World: Hitogirai no Renny,"Adventure, Comedy, Fantasy, Kids",Movie,1,,36,"['adventure', ' comedy', ' fantasy', ' kids']"
-33473,Tokyo Futago Athletic,"Comedy, Sports",ONA,8,,75,"['comedy', ' sports']"
-21305,Trick or Alice,Fantasy,OVA,Unknown,,4481,['fantasy']
-33581,Trinity Seven Movie: Eternity Library to Alchemic Girl,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen",Movie,1,,19813,"['action', ' comedy', ' ecchi', ' fantasy', ' harem', ' magic', ' romance', ' school', ' shounen']"
-23275,Tsubu★Doll,Music,OVA,5,,1060,['music']
-34019,Tsugumomo,"Action, Comedy, Ecchi, School, Seinen, Supernatural",TV,Unknown,,1303,"['action', ' comedy', ' ecchi', ' school', ' seinen', ' supernatural']"
-34474,Tsukipro The Animation,unknown,TV,Unknown,,843,['unknown']
-34498,"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",Drama,Movie,1,,531,['drama']
-34076,Uchouten Kazoku 2,"Comedy, Drama, Fantasy, Slice of Life",TV,Unknown,,5934,"['comedy', ' drama', ' fantasy', ' slice of life']"
-33064,Uchuu Senkan Yamato 2202: Ai no Senshi-tachi,"Action, Drama, Military, Sci-Fi, Space",OVA,Unknown,,2058,"['action', ' drama', ' military', ' sci-fi', ' space']"
-32924,Urara Meirochou,"Comedy, Seinen, Slice of Life",TV,Unknown,,4305,"['comedy', ' seinen', ' slice of life']"
-32012,Utakata Overdrive,"Fantasy, Music",OVA,1,,649,"['fantasy', ' music']"
-34522,"Wake Up, Girls! Shin Shou","Drama, Music",TV,Unknown,,381,"['drama', ' music']"
-34022,Whistle! (ONA),"School, Shounen, Sports",ONA,Unknown,,381,"['school', ' shounen', ' sports']"
-34467,Yami Shibai 4th Season,"Dementia, Horror, Supernatural",TV,Unknown,,1838,"['dementia', ' horror', ' supernatural']"
-32615,Youjo Senki,"Magic, Military",TV,Unknown,,6652,"['magic', ' military']"
-32222,Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!,"Comedy, Kids, Supernatural",Movie,1,,237,"['comedy', ' kids', ' supernatural']"
-34471,Youkai Watch Movie 4,"Comedy, Kids, Supernatural",Movie,1,,169,"['comedy', ' kids', ' supernatural']"
-34284,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,6,,2593,"['drama', ' fantasy', ' magic', ' slice of life']"
-34445,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,6,,4439,"['drama', ' fantasy', ' magic', ' slice of life']"
-33035,Yuyushiki Special,unknown,Special,1,,2294,['unknown']
-33390,Zunda Horizon,unknown,Movie,1,,160,['unknown']
 11879,Oni Chichi: Re-born,Hentai,OVA,2,7.89,14342,['hentai']
 29575,Mankitsu Happening,Hentai,OVA,4,7.83,8510,['hentai']
 15843,Koiito Kinenbi The Animation,Hentai,OVA,2,7.75,6940,['hentai']
@@ -12232,14 +12035,11 @@ anime_id,name,genre,type,episodes,rating,members,genre_list
 19747,Dakaretai Onna,"Hentai, Romance",OVA,2,3.43,144,"['hentai', ' romance']"
 20177,Gin no Otoko,"Hentai, Romance",OVA,1,3.44,126,"['hentai', ' romance']"
 9304,Happy Day,Hentai,OVA,1,4.94,172,['hentai']
-34168,Hataraku Otona no Renai Jijou The Animation,Hentai,OVA,1,,331,['hentai']
 20007,Hi Gekiga Ukiyoe Senya Ichiya,"Action, Hentai",Movie,1,1.92,129,"['action', ' hentai']"
 9503,Hokenshitsu de Aimashou,Hentai,OVA,1,4.38,306,['hentai']
-34506,Idol Kyousei Sousa,Hentai,OVA,Unknown,,68,['hentai']
 17823,Ikenai Boy,"Comedy, Harem, Hentai",OVA,1,3.56,179,"['comedy', ' harem', ' hentai']"
 17825,Ikenai Boy: Ikasu Maruhi Hand Power,"Comedy, Hentai",OVA,1,3.11,112,"['comedy', ' hentai']"
 32195,Junjou Shoujo Et Cetera Specials,Hentai,Special,2,6.42,254,['hentai']
-34361,Kyonyuu Reijou MC Gakuen,Hentai,OVA,Unknown,,205,['hentai']
 7914,Kyuukyoku no Chef wa Oishinbo Papa,Hentai,OVA,1,5.43,262,['hentai']
 14207,Lovely Series,Hentai,OVA,2,4.11,174,['hentai']
 23677,Manga Edo Erobanashi,"Comedy, Hentai, Historical",OVA,5,2.86,111,"['comedy', ' hentai', ' historical']"
@@ -12248,18 +12048,13 @@ anime_id,name,genre,type,episodes,rating,members,genre_list
 5559,Nijuusou: Wana ni Ochita Onna-tachi,Hentai,OVA,1,5.2,240,['hentai']
 18197,Nudl Nude,"Comedy, Hentai, Parody",OVA,1,4.14,186,"['comedy', ' hentai', ' parody']"
 18199,Nudl Nude 2,"Comedy, Hentai, Parody",OVA,1,4.0,146,"['comedy', ' hentai', ' parody']"
-34492,Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution,Hentai,OVA,Unknown,,392,['hentai']
 29111,Onna Spy Goumon: Teki no Ajito wa Jotai Goumonsho,Hentai,OVA,1,3.14,108,['hentai']
 32713,Original C-V-P Momoko,Hentai,OVA,2,4.0,66,['hentai']
 12397,Original Video Romance Animation,"Comedy, Hentai",OVA,2,4.66,176,"['comedy', ' hentai']"
 17833,Pink no Curtain,"Hentai, Slice of Life",OVA,1,3.61,138,"['hentai', ' slice of life']"
-34491,Sagurare Otome The Animation,Hentai,OVA,1,,79,['hentai']
-34312,Saimin Class,Hentai,OVA,Unknown,,240,['hentai']
 9504,Sakura no Mori,Hentai,OVA,2,4.53,221,['hentai']
-34388,Shikkoku no Shaga The Animation,Hentai,OVA,Unknown,,195,['hentai']
 29992,Silent Chaser Kagami,Hentai,OVA,1,4.95,112,['hentai']
 26031,Super Erotic Anime,Hentai,OVA,2,4.45,118,['hentai']
-34399,Taimanin Asagi 3,"Demons, Hentai, Supernatural",OVA,Unknown,,485,"['demons', ' hentai', ' supernatural']"
 10368,Teleclub no Himitsu,Hentai,OVA,2,4.67,148,['hentai']
 9352,Tenshi no Habataki Jun,Hentai,OVA,1,4.33,201,['hentai']
 5541,The Satisfaction,Hentai,OVA,1,4.37,166,['hentai']
